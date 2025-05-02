@@ -32,7 +32,6 @@
 
 	function nextRound() {
 		$gameData.round += 1
-		$gameData.shots = 0
 		alive = true
 		writeChamber()
 		card = getRandomCard()
