@@ -7,7 +7,7 @@ export let gameData = writable({
 	'chamberSize': 6,
 	'seed': null,
 	'round': null,
-	'cards': ['królowa', 'król', 'walet', 'as']
+	'cards': ['królowa', 'król', 'as']
 });
 
 // function storeReset(params) {
